@@ -1,0 +1,2 @@
+# EnterpriseKnowledgeGraph
+Bachelors project
